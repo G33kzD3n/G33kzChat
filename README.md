@@ -1,23 +1,23 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Blog Home](http://startbootstrap.com/template-overviews/blog-home/)
+# [G33kzD3n](http://github.com/G33kzD3n) - [G33kzChat](http://github.com/G33kzD3n/G33kzChat)
 
-[Blog Home](http://startbootstrap.com/template-overviews/blog-home/) is a basic blog homepage HTML starter template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+[G33kzChat](http://github.com/G33kzD3n/G33kzChat) is a simple Social networking site for Developers [G33kzChat](http://github.com/G33kzD3n/G33kzChat)created by  [G33kzD3n](http://github.com/G33kzD3n)
 
 ## Getting Started
 
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
+To use this web-app, choose one of the following options to get started:
+* Download the latest release on [G33kzChat](http://github.com/G33kzD3n/G33kzChat)
 * Fork this repository on GitHub
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-blog-home/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/blog-home/).
+Have a bug or an issue with this? [G33kzChat](http://github.com/G33kzD3n/G33kzChat)
 
 ## Creator
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+Start Bootstrap was created by and is maintained by **Nadeem Hilal and Frns**, Managing Parter at[G33kzD3n](http://github.com/G33kzD3n)
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+* https://twitter.com/@nadeem_hilal
+* https://github.com/nadeem09wani
 
 Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
